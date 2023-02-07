@@ -1,4 +1,5 @@
 #Magic ball Game
+#Rewrite the following magic ball game written in C++ to Python: https://github.com/c0d33ngr/Commandline-Games-hacktoberfest/blob/main/C%2B%2B/magicBall.cpp
 
 import random
 
